@@ -568,3 +568,50 @@ freeapi
 		https://github.com/chenjiandongx/torrent-cli
 		https://github.com/shiyanhui/dht
 	https://studygolang.com/articles/9025
+	
+	vue-resource
+		https://hu-snail.github.io/vue3-resource/platform/web/ui.html#element-plus
+	程序员做个人项目，需要找准需求
+		https://www.v2ex.com/t/374908
+	《go语言定制指南》
+		https://chai2010.cn/go-ast-book/
+	《flutter实战》，
+		https://book.flutterchina.club/chapter2/first_flutter_app.html
+		在拉钩教育上的课程：https://kaiwu.lagou.com/course/courseInfo.htm?courseId=251#/detail/pc?id=3518
+		编写第一个flutter应用：https://codelabs.flutter-io.cn/codelabs/first-flutter-app-pt2-cn/index.html#3
+	road-to-coding
+		https://r2coding.com/#/?id=ci%e7%b3%bb%e7%bb%9f
+	《CSS学习框架》
+		https://www.tailwindcss.cn/docs/container
+	《hugo使用github action自动部署到github pages》
+		https://tomial.github.io/posts/hugo%E4%BD%BF%E7%94%A8github-action%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2%E5%8D%9A%E5%AE%A2%E5%88%B0github-pages/
+	《gevent程序员指南》
+		http://hhkbp2.com/gevent-tutorial/
+	《go语言原本》
+		https://golang.design/under-the-hood/
+	《并发模型csp和actor》
+		https://jingwei.link/2018/07/08/actor-and-csp-model.html
+	《python进阶》
+		https://ebook-python-study.readthedocs.io/zh_CN/latest/python%E8%BF%9B%E9%98%B606%E5%B9%B6%E5%8F%91%E4%B9%8B%E4%BA%8C%E6%8A%80%E6%9C%AF%E7%82%B9%E5%85%B3%E9%94%AE%E8%AF%8D.html
+	并性能高并发面试
+		https://www.cnblogs.com/heartstage/p/3415584.html
+	一个极简、易用的业务灰度分流方案
+		https://toutiao.io/posts/sjdciny/preview
+	greenlet
+		https://github.com/python-greenlet/greenlet
+		https://juejin.cn/post/7077820969816948772
+		https://codingdict.com/sources/py/greenlet/15253.html
+		https://he11olx.com/2018/09/12/3.%E5%8D%8F%E7%A8%8B%E7%9B%B8%E5%85%B3/3.1.Greenlet%20%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/
+	tornado手册
+		https://tornado-zh-cn.readthedocs.io/zh_CN/latest/
+	对常见高并发一些业务场景的理解
+		https://www.jianshu.com/p/99d93e618377
+	聊聊C10K问题及解决方案
+		https://cloud.tencent.com/developer/article/1031629
+		https://www.jianshu.com/p/ba7fa25d3590
+	为什么多线程可以利用到多核
+		https://blog.csdn.net/cpxsxn/article/details/106101531
+	IO模型的演进
+		https://waylau.gitbooks.io/essential-java/content/docs/io-model.html
+	快速建站工具
+		https://docsify.js.org/#/zh-cn/quickstart
