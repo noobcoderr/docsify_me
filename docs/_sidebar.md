@@ -8,7 +8,8 @@
 - [Python](Python/README.md)
   - [Python开源框架赏析](Python/python_opensource_read.md)
 - [数据库](Database/README.md)
-
+- [数据结构](DataStruct/README.md)
+- [算法分析](Algorithm/README.md)
 - [极客时间](GeekTime/README.md)
 - [一点点产品](Product/README.md)
 - [系统设计案例](SystemDesign/README.md)
