@@ -2,14 +2,18 @@
 - [开发流程规范](DevelopmentStandard/README.md)
 - [Git使用大全](DevelopmentStandard/git-usage.md)
 - [操作系统](OperateSystem/README.md)
-- [IO模型](OperateSystem/io-models.md)
+  - [IO模型](OperateSystem/io-models.md)
 - [Linux](Linux/README.md)
   - [shell使用大全](Linux/shell-usage.md)
 - [Python](Python/README.md)
   - [Python开源框架赏析](Python/python_opensource_read.md)
+- [数据库](Database/README.md)
 
 - [极客时间](GeekTime/README.md)
-  - []
+- [一点点产品](Product/README.md)
+- [系统设计案例](SystemDesign/README.md)
+- [设计模式](DesignPattern/README.md)
+- [职业生涯](Career/README.md)
 
 
 
