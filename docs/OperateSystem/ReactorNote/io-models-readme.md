@@ -4,6 +4,7 @@
 而且还有很多开源框架也是基于该模型的，如nginx、redis
 
 
+
 ## 参考
 
 [必读-100%弄明白5种IO模型](https://zhuanlan.zhihu.com/p/115912936)
