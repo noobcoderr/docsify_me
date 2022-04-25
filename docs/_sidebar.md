@@ -2,7 +2,7 @@
 - [开发流程规范](DevelopmentStandard/README.md)
 - [Git使用大全](DevelopmentStandard/git-usage.md)
 - [操作系统](OperateSystem/README.md)
-  - [Reactor模型](OperateSystem/ReactorNote/io-models-readme.md)
+  - [Reactor模型](OperateSystem/ReactorNote/io-models-readme.md "poll、epoll、select、阻塞、非阻塞、IO")
     - [经典论文翻译](OperateSystem/ReactorNote/paper_translate.md)
     - [使用Go/Python实现简单demo](OperateSystem/ReactorNote/my_demo.md)
     - [Reactor开源项目赏析](OperateSystem/ReactorNote/open_source_case.md)

@@ -1,19 +1,5 @@
-# 《Docker使用场景》
-## 一、和docker容器进行文件交互
-	1、获取docker容器id
-	2、本机往docker容器内复制 docker cp 本机路径/文件名 容器id:/目标路径/文件名
-	2、docker往本机复制文件 docker cp 容器id:/目标路径/文件名 本机路径/文件名
-
-## 二、docker 容器内配置修改
-	docker内的文件是只读的，但是提供了一种方式
-	KONG_ + 配置名 = 期望值
-	比如我要设置go插件可执行目录为/usr/local/bin
-	那么启动docker kong的时候
-	-e "KONG_GO_PLUGINSERVER_EXE=/usr/local/bin/go-pluginserver" \
-
-前2步可以将生成的插件文件复制到容器内的指定目录，然后通过启动时的配置，完成要求的配置更改。
-
-## 三、配置了插件后，konga连接kong失败，如何查看原始日志
+# KONG使用过程中遇到的困难
+## 1、配置了插件后，konga连接kong失败，如何查看原始日志
 	1、docker启动容器立马失败，查看该容器的日志
 		docker logs 容器id
 		提示sh: /usr/local/bin/go-pluginserver: not found
@@ -27,7 +13,7 @@
 
 
 
-## kong源文件安装
+## 2、kong源文件安装
 1、mac使用brew安装kong出错，且无法解决，转为使用原文件安装,相关文档较少
 	后续，brew用的国内清华源，执行brew update后，重新执行，安装成功
 	export PATH="$PATH:/usr/local/Cellar/kong/2.5.1/bin"
@@ -36,7 +22,7 @@
 
 转换思路，使用现有的lua脚本插件
 
-1、明明已经安装canary，但是启动kong提示未找到
+## 3、明明已经安装canary，但是启动kong提示未找到
 	kong要求的  /usr/local/share/lua/5.1/kong/init.lua:515:,需要安装在 /usr/local/share/lua/5.1/kong/plugins
 	通过查询文件夹 find ./local -name canary -type d (查找文件用的是 find / -name 'server.xml' -print)
 	发现canary安装在了 usr/local/share/lua/5.4/kong/plugins/canary
@@ -54,7 +40,7 @@
 	修改kong.conf报只读错误，更改权限为chmod 777
 	报错Error: /usr/local/share/lua/5.1/kong/cmd/start.lua:64: /usr/local/bin/go-pluginserver flag redefined: kong-prefix
 panic: /usr/local/bin/go-pluginserver flag redefined: kong-prefix
-	可能为kong版本的问题，目前版本为2.5.1，选择2。0版本重新安装，brew安装指定版本的软件https://www.jianshu.com/p/b8909508bb8e
-	无法选择版本进行安装。这篇教如何使用go安装https://www.bilibili.com/s/video/BV1Z44y1q7Ko
 
+可能为kong版本的问题，目前版本为2.5.1，选择2。0版本重新安装，brew安装指定版本的软件https://www.jianshu.com/p/b8909508bb8e
 
+无法选择版本进行安装。这篇教如何使用go安装https://www.bilibili.com/s/video/BV1Z44y1q7Ko
