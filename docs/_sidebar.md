@@ -19,7 +19,7 @@
 - [极客时间](GeekTime/README.md)
 - [一点点产品](Product/README.md)
 - [系统设计案例](SystemDesign/README.md)
-- [设计模式](DesignPattern/README.md)
+- [设计模式](SoftwareDesign/DesignPattern/README.md)
 - [职业生涯](Career/README.md)
 
 

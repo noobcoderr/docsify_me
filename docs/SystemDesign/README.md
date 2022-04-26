@@ -14,3 +14,6 @@
 
 [春节钱包大流量奖励系统入账及展示的设计与实现](https://mp.weixin.qq.com/s/cT9b2GDsUinVNoA6gyqs_g)
 
+[如何处理一个系统面试题---基本套路](https://www.cnblogs.com/shawshawwan/p/10186072.html)
+
+[从0到1构建美团压测工具-美团技术团队](https://tech.meituan.com/2016/01/08/loading-test.html)

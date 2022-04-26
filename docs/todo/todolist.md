@@ -1,150 +1,18 @@
 TODO LIST，每周清理一遍。2
 
-MIT6.828分布式课程   
-	https://zhuanlan.zhihu.com/p/74028717
-算法小抄
-	https://www.cxyxiaowu.com/offer
-拉钩教育：微服务实战38讲
-	https://kaiwu.lagou.com/course/courseInfo.htm?courseId=287#/detail/pc?id=3798
-算法快速入门，go
-	https://greyireland.gitbook.io/algorithm-pattern/ru-men-pian/quickstart
-数据库SQL实战，牛客
-	https://www.nowcoder.com/ta/sql
-git commit message change log编写
-	http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html
-面向对象设计6大原则
-	https://juejin.cn/post/6844903673672237063
-技术人员的成长
-	https://juejin.cn/post/6858899500107792391?utm_source=gold_browser_extension%3Futm_source%3Dgold_browser_extension
-leetcode cookbook
-	https://github.com/halfrost/LeetCode-Go?utm_source=gold_browser_extension
-stackless python并发编程介绍
-	https://www.cnblogs.com/crawer-1/p/8205303.html
-定时任务表达式手册
-	https://www.gairuo.com/p/cron-expression-sheet
-拉钩教育：由浅入深吃透docker
-	https://kaiwu.lagou.com/course/courseInfo.htm?courseId=455#/detail/pc?id=4572
-2020 mit 6.824 分布式课程 golang
-	https://blog.csdn.net/jiangshouzhuang/article/details/104528806
-	https://www.bilibili.com/video/av87684880
-	https://pdos.csail.mit.edu/6.824/schedule.html
-Map reduce
-	https://www.cnblogs.com/fuzhe1989/p/3413457.html
-系统架构设计课程
-	https://www.jiuzhang.com/course/77/?utm_source=sc-zhanswer-cyc0721
-	对应的博客  https://www.cnblogs.com/shawshawwan/p/10186072.html
-面向对象设计原则和UML标识
-	https://blog.csdn.net/god_wen/article/details/78344343
-UML类图总结
-	https://blog.csdn.net/ibukikonoha/article/details/80643959?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task
-	https://design-patterns.readthedocs.io/zh_CN/latest/read_uml.html
-	https://my.oschina.net/u/4327545/blog/3600667
-	https://www.youtube.com/watch?v=zid-MVo7M-E&ab_channel=Lucidchart
-IM开发基础 rpc
-	https://zhuanlan.zhihu.com/p/139203251
-美团技术团队：压测工具
-	https://tech.meituan.com/2016/01/08/loading-test.html
-麻将后端架构模型
-	https://jingwei.link/2019/07/30/huixian-mahjong-server-summary.html
-王者荣耀技术分析服务器架构演进
-	https://juejin.cn/post/6844903487961055246
-游戏服务器存储系统设计
-	https://juejin.cn/post/6844903487961055246
-游戏后端篇
-	https://www.jianshu.com/p/1c05ecb70135
-腾讯游戏学院，服务器架构
-	https://gameinstitute.qq.com/course/detail/10090
-分布式id
-	https://www.zhihu.com/question/20180484
-美团技术团队：订单id优化
-	https://tech.meituan.com/2016/12/27/meituan-tuangou-order.html
-24小时排行榜实时更新
-	https://learnku.com/articles/30279
-雪花算法：时钟回拨问题
-	https://studygolang.com/articles/29339
-golang实现雪花算法
-	https://www.dazhuanlan.com/2019/11/04/5dbfbb901bef2/?__cf_chl_jschl_tk__=512206004ad7b20811b5890f92ffeb47a9068455-1610899864-0-AUWCWauE9pwAzjsRAxQz8rvryEmKviZ_GUC4NMmU2uZkAq7FRQLrr70MxLoRTK35StFD2l_D10EQDJF5gjcqk8vrtNRwCFTW5OG7nm7UUnrSUt6SYMuk7bMnFFxCjppHAVYQVxltMh7Kzl6n9PgNQgBZN3BYhKjOAIIrcbOx4GyhLYV8OvPIpG1JqPfDPtZMtqt8_Tg2h0ZiEM8Fq3gw-XCj93le9Aghg_139fTgr2KLP1PkTEnvsKZL-NWnaLOpwk03RPOVJ409hmjxosaaY8ua2soFkfuVhFZ0iocosk5AwlQXa2anwWXfj3IwPNwNqex75uc041xysWdsDD83dRQ
-雪花算法：百度美团最佳实践
-	http://www.spring4all.com/article/17333
-	https://lv-neo.github.io/Learn/algorithm/snowflake/
-
-美团技术团队：leaf，分布式id生成
-	https://tech.meituan.com/2017/04/21/mt-leaf.html
-Twitter雪花算法SnowFlake改造: 兼容JS截短位数的53bit分布式ID生成器
-	https://juejin.cn/post/6844903981886472206
-id发号器
-	https://blog.csdn.net/xlgen157387/article/details/80053021
-	https://www.cnblogs.com/yx88/p/11285639.html
-golang的位操作
-	https://learnku.com/go/t/23460/bit-operation-of-go
-什么是用户故事
-	https://www.scrumcn.com/agile/scrum/4823.html
-ludo服务端迭代
-	https://www.processon.com/view/link/5fb09adef346fb2d03b65bc4#map
-研发，发行，渠道那些事
-	https://zhuanlan.zhihu.com/p/34964309
-RSA	笔记
-	https://www.jianshu.com/p/6a39610122fa
-开发者幂等性的问题
-	https://segmentfault.com/a/1190000018808510
-程序员的核心能力
-	https://michael728.github.io/2019/05/11/think-core-skill-programmer/
-程序员年度规划
-	https://blog.csdn.net/wer0735/article/details/78946629
-抽象能力
-	https://www.zhihu.com/question/54319353
-社招
-	https://github.com/aylei/interview
-为什么技术同学要多业务思考
-	https://www.infoq.cn/article/4ikomuqk89u0gxgnl3xn
-	https://www.infoq.cn/article/ZWpF2QaUcKE4NNVrM5SS?utm_source=related_read_bottom&utm_medium=article
-为什么我的redis这么慢
-	https://cloud.tencent.com/developer/article/1683803
-redis优化经验
-	https://www.cnblogs.com/duanxz/p/5447402.html
-新冠各地隔离政策
-	http://m.wh.bendibao.com/news/gelizhengce/all.php?leavecity=hh
-
-
 2021-04-21添加
-教你阅读Python开源项目代码
-	https://learnku.com/articles/23010/teach-you-to-read-the-python-open-source-project-code
 代码阅读-10个C开源项目
 	https://cloud.tencent.com/developer/article/1199903
-redis incr 和incr by说明
-	https://www.jb51.net/article/200484.htm
-如何搭建游戏服务器
-	https://cloud.tencent.com/developer/article/1062044
-手游服务器开发技术详解
-	https://blog.csdn.net/majianfei1023/article/details/46716073
-端游及手游服务端常用架构
-	https://blog.csdn.net/FlyPigYe/article/details/91347861?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_title-1&spm=1001.2101.3001.4242
-unity 3d网络游戏架构
-	https://gitchat.blog.csdn.net/article/details/79909224?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-2.control&dist_request_id=1328767.57977.16176035391405085&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-2.control
-教你从头写游戏服务器框架
-	https://segmentfault.com/a/1190000018396968
-用nodejs写一个多人游戏服务器框架
-	https://segmentfault.com/a/1190000018412034?utm_source=sf-similar-article
-游戏服务器架构通识
-	https://zhuanlan.zhihu.com/p/28447002
-12	经典游戏服务器端架构概述
-	https://cloud.tencent.com/developer/article/1164964
-7	QQ游戏百万人同时在线服务器架构实现
-	https://cloud.tencent.com/developer/article/1164990?from=article.detail.1164964
-4	关于游戏服务端架构的整理
-	https://cloud.tencent.com/developer/article/1164989?from=article.detail.1164990
+
 知乎千万级高性能长连接网关解密
 	https://www.infoq.cn/article/uxru4hr_mlmx3q84mb9m
-后端开发面试题  ！！！！！！！
-	https://github.com/monklof/Back-End-Developer-Interview-Questions
 2分钟明白面向对象编程
 	https://zhuanlan.zhihu.com/p/75265007
 云游戏基础架构概览
 	https://cloud.google.com/solutions/gaming/cloud-game-infrastructure?hl=zh-cn
 棋牌服务器架构设计
 	https://www.cnblogs.com/panchanggui/p/9518825.html
-协同开发中svn的使用
-	https://www.jianshu.com/p/9959b66ca7a8
+
 ios内购自动续订订阅
 	https://juejin.cn/post/6844903839334662152
 面向游戏的Azure 入门

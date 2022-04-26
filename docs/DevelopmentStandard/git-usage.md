@@ -98,3 +98,6 @@ feature分支为特性分支
 不同点
 1个基于master、1个基于develop产生feat分支
 前者的feat要包含最新的develop分支代码，而后者则不能将develop分支内的代码拉取到feat内
+
+## 参考
+[Commit message 和 Change log 编写指南-阮一峰](https://www.nowcoder.com/ta/sql)

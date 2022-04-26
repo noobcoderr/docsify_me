@@ -1,5 +1,4 @@
-
-《UML-面向对象》
+# UML建模学习
 
 uml类
 普通类、抽象类、静态类，接口类
@@ -13,3 +12,5 @@ uml类
 -：代表private，代表私有，只有当前类的实例可调用。
 
 _方法名：为静态方法
+
+[UML学习讲解-youtube](https://www.youtube.com/watch?v=zid-MVo7M-E&ab_channel=Lucidchart)

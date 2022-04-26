@@ -5,8 +5,11 @@
 ## 面试
 
 大学毕业时，其实参加的面试也不算多，但是也能稍微感受到一些套路，这里主要是想记录下，防止以后踩坑。
+参考
 
-参考 [后端开发面试题](https://github.com/monklof/Back-End-Developer-Interview-Questions)
+[社招](https://github.com/aylei/interview)
+
+[后端开发面试题](https://github.com/monklof/Back-End-Developer-Interview-Questions)
 
 ## 述职
 
@@ -18,3 +21,6 @@
 
 这块目前没有认真思考过
 
+[技术人的成长](https://juejin.cn/post/6858899500107792391?utm_source=gold_browser_extension%3Futm_source%3Dgold_browser_extension)
+
+[程序员核心能力](http://vitrun.github.io/computer/2017/11/26/core-skill-programmer.html)
