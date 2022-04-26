@@ -23,7 +23,8 @@ golang实现雪花算法
 
 Twitter雪花算法SnowFlake改造: 兼容JS截短位数的53bit分布式ID生成器
 	https://juejin.cn/post/6844903981886472206
-
+ios内购自动续订订阅
+	https://juejin.cn/post/6844903839334662152
 id发号器
 https://blog.csdn.net/xlgen157387/article/details/80053021
 	
@@ -32,5 +33,18 @@ https://www.cnblogs.com/yx88/p/11285639.html
 研发，发行，渠道那些事
 	https://zhuanlan.zhihu.com/p/34964309
 
+手游收入指标名词解释
+	https://blog.csdn.net/dujianxiong/article/details/80050370
+
+***用户模块设计
+	https://zhuanlan.zhihu.com/p/26139290
+
+证券研究报告——游戏行业买量专题报告
+	https%3A%2F%2Fpdf.dfcfw.com%2Fpdf%2FH3_AP202106251499946648_1.pdf%3F1624642759000.pdf
+
+
 [为什么技术同学需要有更多的业务思考？](https://www.infoq.cn/article/4ikomuqk89u0gxgnl3xn)
 [从求生存到修体系，我在阿里找到了技术人的成长模式](https://www.infoq.cn/article/ZWpF2QaUcKE4NNVrM5SS?utm_source=related_read_bottom&utm_medium=article)
+
+推送原理
+	https://www.jianshu.com/p/14ba5adc2ac4

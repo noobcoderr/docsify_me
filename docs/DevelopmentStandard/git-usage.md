@@ -101,3 +101,38 @@ feature分支为特性分支
 
 ## 参考
 [Commit message 和 Change log 编写指南-阮一峰](https://www.nowcoder.com/ta/sql)
+
+[git-flow 的工作流程](https://www.git-tower.com/learn/git/ebook/cn/command-line/advanced-topics/git-flow/)
+
+
+git clone --mirror和git clone --bare之间的区别是什么
+	https://www.imooc.com/wenda/detail/579025
+
+gogs迁移gitlab
+	https://www.cnblogs.com/zy0209/p/11265158.html
+
+搞懂git rebase
+	http://jartto.wang/2018/12/11/git-rebase/
+
+
+gitflow with rebase
+	https://gist.github.com/markreid/12e7c2203916b93d23c27a263f6091a0
+
+gitflow
+	https://githubflow.github.io/
+
+git-hooks
+	https://segmentfault.com/a/1190000040370691
+	https://yanghongfei.github.io/2019/03/25/git-hooks/
+
+github actions：cicd
+	https://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html
+
+git使用的一些姿势
+	https://www.jianshu.com/p/393d8630dafa
+
+gitlab自动部署测试服文档
+	https://avohk9xvwg.feishu.cn/docs/doccnkgpL6faNMuZqSojaP7lkwe#VTfe5A
+
+《hugo使用github action自动部署到github pages》
+	https://tomial.github.io/posts/hugo%E4%BD%BF%E7%94%A8github-action%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2%E5%8D%9A%E5%AE%A2%E5%88%B0github-pages/

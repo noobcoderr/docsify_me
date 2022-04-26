@@ -57,3 +57,6 @@
 
 
 账号支付项目信息组织与管理
+
+[一个完整的软件项目开发流程](https://zhuanlan.zhihu.com/p/31323554)
+[如何写一份程序员爱看的需求文档？](http://www.woshipm.com/pmd/778068.html)

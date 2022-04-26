@@ -16,3 +16,6 @@
 [Reactor Pattern论文学习《An Object Behavioral Pattern for Concurrent Event Demultiplexing and Dispatching](https://zhuanlan.zhihu.com/p/464159297)
 
 [深入理解Reactor模式,也是论文学习](https://www.s0nnet.com/archives/deep-understanding-of-reactor-design-patterns)
+
+《并发模型csp和actor》
+	https://jingwei.link/2018/07/08/actor-and-csp-model.html

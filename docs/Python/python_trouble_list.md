@@ -102,3 +102,5 @@ twisted
 	RuntimeError: Request.finish called on a request after its connection was lost; use Request.notifyFinish to keep track of this.
 
 
+彻底弄明白partial()
+	https://zhuanlan.zhihu.com/p/47124891

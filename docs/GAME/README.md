@@ -39,3 +39,27 @@ unity 3d网络游戏架构
 
 ludo服务端迭代 https://www.processon.com/view/link/5fb09adef346fb2d03b65bc4#map
 
+云游戏基础架构概览
+	https://cloud.google.com/solutions/gaming/cloud-game-infrastructure?hl=zh-cn
+棋牌服务器架构设计
+	https://www.cnblogs.com/panchanggui/p/9518825.html
+面向游戏的Azure 入门
+	https://docs.microsoft.com/zh-cn/gaming/azure/
+python游戏开发实战:网络游戏Demo（客户端）
+	https://blog.csdn.net/qq_39687901/article/details/81904180
+游戏后端开发的get技能建议
+	https://zhuanlan.zhihu.com/p/93470826
+如何从事游戏后台开发
+	https://www.zhihu.com/question/62386941
+学好服务端（1）——拿到一套游戏源码，该从哪看起？
+	https://zhuanlan.zhihu.com/p/77791746
+游戏服务器的常用架构
+	https://blog.nowcoder.net/n/42357bf9baba41c284bfcd8a4f49b76f?from=nowcoder_improve
+游戏服务器架构总结
+	https://zhuanlan.zhihu.com/p/82738850
+房间类游戏后台框架(四)—游戏服务器
+	https://blog.csdn.net/d7185540/article/details/83274821
+游戏框架
+	https://blog.csdn.net/d7185540/category_8246177.html
+游戏服务器冷热数据分离
+	https://www.jianshu.com/p/952085d84799

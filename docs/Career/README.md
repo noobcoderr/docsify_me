@@ -24,3 +24,27 @@
 [技术人的成长](https://juejin.cn/post/6858899500107792391?utm_source=gold_browser_extension%3Futm_source%3Dgold_browser_extension)
 
 [程序员核心能力](http://vitrun.github.io/computer/2017/11/26/core-skill-programmer.html)
+
+如何做技术分享
+	https://www.jianshu.com/p/02e63c85248f
+
+程序员技术练级攻略
+	https://coolshell.cn/articles/4990.html
+
+[学习路线图-包含前后端](https://roadmap.sh/)
+[快速学习各语言-海外版的菜鸟教程](https://quickref.me/)
+
+road-to-coding
+	https://r2coding.com/#/?id=ci%e7%b3%bb%e7%bb%9f
+
+年终总结方法论
+	https://www.ncss.cn/ncss/zt/nzzj.shtml
+面试-star法则
+	https://zhuanlan.zhihu.com/p/26558343
+	http://www.jinwenhr.com/article/index.php?c=show&id=58
+复盘-KISS
+	https://blog.csdn.net/sunyejia/article/details/86530937
+	https://www.wlcbw.com/50945.html
+
+并性能高并发面试
+	https://www.cnblogs.com/heartstage/p/3415584.html

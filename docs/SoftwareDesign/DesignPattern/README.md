@@ -12,3 +12,4 @@
 
 [Go设计模式](https://github.com/senghoo/golang-design-pattern)
 
+[实际开发中哪些场景需要用到工厂模式，小兔有点乖 讲清了简单工厂和工厂方法的区别](https://segmentfault.com/q/1010000005849224)

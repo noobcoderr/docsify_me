@@ -6,3 +6,5 @@ Easy-Reactor是一个基于Reactor模式的Linux C++网络服务器框架，支�
 
 [network](https://github.com/feiyu4581/network)  
 网络编程练习，使用 python 构建一个 Reactor 网络架构
+
+[gnet: 一个轻量级且高性能的 Go 网络框架](https://strikefreedom.top/go-event-loop-networking-library-gnet)

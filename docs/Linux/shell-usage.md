@@ -42,3 +42,6 @@
 ## 参考链接
 [vim文本替换](https://segmentfault.com/a/1190000004443210)
 [linux sed命令](https://www.runoob.com/linux/linux-comm-sed.html)
+
+shell程序中的2> /dev/null代表什么意思
+	https://www.zhihu.com/question/53295083

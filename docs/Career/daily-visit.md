@@ -21,3 +21,11 @@
 
 7、CSDN问答专区
     https://ask.csdn.net/
+
+[ 分享 GitHub 上有趣、入门级的开源项目](https://github.com/521xueweihan/HelloGitHub)
+
+2021年终总结
+	https://www.yuque.com/realsky/anything/begd65
+
+年终总结最强攻略（思维导图）：5个步骤写出老板满意的！
+	https://www.shixunying.com/26804.html
