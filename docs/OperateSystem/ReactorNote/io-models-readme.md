@@ -19,3 +19,15 @@
 
 《并发模型csp和actor》
 	https://jingwei.link/2018/07/08/actor-and-csp-model.html
+
+[推荐-聊聊Linux 五种IO模型](https://www.jianshu.com/p/486b0965c296)
+
+[彻底理解 IO 多路复用实现机制](https://juejin.cn/post/6882984260672847879)
+
+[深入理解Reactor 网络编程模型](https://zhuanlan.zhihu.com/p/93612337)
+
+[Redis中的Reactor 模型的工作机制](https://blog.csdn.net/qq_41688840/article/details/122182339)
+
+[Redis 多线程网络模型全面揭秘](https://zhuanlan.zhihu.com/p/356059845)
+
+[Reactor模式](https://dreamgoing.github.io/reactor.html)
