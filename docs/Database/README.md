@@ -24,3 +24,11 @@ mysql
 
 mongodb备份还原
 	https://segmentfault.com/a/1190000006236494
+
+[2022年Redis最新面试题](https://manbucoding.com/travel-coding/redis/redis%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.html)
+
+[redis键值数据库源码分析](https://github.com/linyiqun/Redis-Code)
+
+[带有详细注释的 Redis 3.0 代码](https://github.com/huangz1990/redis-3.0-annotated)
+
+[《Redis 设计与实现》（网络版）的书稿源码](https://github.com/huangz1990/redisbook)
