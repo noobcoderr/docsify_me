@@ -95,13 +95,95 @@ python在导入模块时，即import时究竟有哪些动作？在python中，�
 
 ### 构建方式：  
 懒汉方式。指全局的单例实例在第一次被使用时构建。  
-饿汉方式。指全局的单例实例在类装载时构建。  
+Early Initialization: 饿汉方式。指全局的单例实例在类装载时构建。  
 
 
 
 # 总结
 
-在python中，用类成员属性+锁，即可满足绝大多数情况下的单例需求
+一句话总结：  
+单个进程生命周期内，一个类只能关联一个实例化对象
+
+实现思路：  
+修改默认的实例化方法(python __new__)或者让用户只能调用我们提供的获取实例化对象的方法(go 小写对象名)
+
+目的:  
+减少资源损耗、方便协调管理系统整体行为
+
+## Python单例模式
+
+懒汉模式
+
+```python
+class Config(object):
+    lock = threading.Lock
+
+    def __new__(cls, *args, **kwargs):
+        if not hasattr(Config, "_instance"):
+            with Config.lock:
+                if not hasattr(Config, "_instance"):
+                    Config._instance = Config()
+        return Config._instance
+
+
+cfg = Config()
+```
+
+
+
+饿汉模式
+
+```python
+class Config(object):
+    
+    def __init__(self):
+        pass
+
+
+Config = Config() # 利用模块加载时执行
+```
+
+
+
+## GO单例模式
+
+懒汉模式：用的时候再实例化
+
+```go
+var instance *Student
+var once sync.Once
+
+type Student struct {
+}
+
+func GetStudent() *Student {
+	once.Do(func() {
+		instance = &Student{}
+	})
+	return instance
+}
+```
+
+
+
+
+
+饿汉模式：程序启动阶段就实例化
+
+利用go的init函数，在程序初始化阶段自动执行
+
+```go
+var instance *Student
+
+type Student struct {
+}
+
+func init() {
+	instance = &Student{}
+}
+```
+
+
 
 
 
@@ -109,5 +191,8 @@ python在导入模块时，即import时究竟有哪些动作？在python中，�
 
 # 参考文档
 
-[python中的单例模式实现](https://blog.csdn.net/ManyPeng/article/details/92816138)
+[python中的单例模式实现,值得参考](https://blog.csdn.net/ManyPeng/article/details/92816138)
 
+[菜鸟教程-单例模式，介绍部分写的很好](https://www.runoob.com/design-pattern/singleton-pattern.html)
+
+[python单例，懒汉和饿汉的理解](https://www.jianshu.com/p/4d3c0319c12d)
