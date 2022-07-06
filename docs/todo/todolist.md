@@ -1,4 +1,4 @@
-TODO LIST，每周清理一次
+TODOLIST 每周清理一次
 
 3、垃圾回收算法是怎么设计的
 	https://developer.aliyun.com/article/777750?source=5176.11533457&userCode=e4nptrfl

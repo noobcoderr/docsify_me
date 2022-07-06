@@ -1,4 +1,7 @@
 - [TODO](todo/README.md)
+  - [待阅读书单](todo/toread.md)
+  - [待学习网课](todo/tolearn.md)
+  - [待清理todo](todo/todolist.md)
 - [职业生涯](Career/README.md)
   - [职业生涯规划](Career/career_plan.md)
   - [述职](Career/work_report.md)
