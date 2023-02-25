@@ -14,7 +14,16 @@ TODOLIST 每周清理一次
 11、《学习费曼学习法》
 	liujingyu.github.io/feynman/2020/03/17/learn-Feynman.html
 
+12、再起一个文件夹，记录业务中遇到的一些问题
+	[1、线上跳转几千万页导致mongodb产生慢查询，以及影响线上业务的问题](https://avohk9xvwg.feishu.cn/docx/doxcnGiUJsxx5nZJ6KJzQEQJtrg)
+	2、线上mongo订单库数量过大产生的分表问题，该怎么分
+	3、python类变量中使用未加载的函数值导致崩溃，服务启动过程是怎么样的
 
+13、软件版本号规范与命名原则
+	https://www.jianshu.com/p/75374e299ef8
+	http://www.ttlsa.com/linux/alpha-beta-rc/
+	
+14、
 
 
 

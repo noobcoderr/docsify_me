@@ -16,3 +16,4 @@ _方法名：为静态方法
 [UML学习讲解-youtube](https://www.youtube.com/watch?v=zid-MVo7M-E&ab_channel=Lucidchart)  
 [基于UML的需求分析和系统设计](http://www.uml.org.cn/modeler/202108052.asp?artid=24262)  
 [UML从需求到实现---类图(1)](https://blog.51cto.com/u_15127557/4626044)
+[开源UML工具](https://plantuml.com/zh/)
