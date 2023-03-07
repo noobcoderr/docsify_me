@@ -47,6 +47,7 @@
 - [编程语言](ProgramLanguages/README.md)
   - [Python](ProgramLanguages/Python/README.md)
     - [Python开源框架赏析](ProgramLanguages/Python/python_opensource_read.md)
+    - [Python项目实践](ProgramLanguages/Python/python_best_practice.md)
   - [Go](ProgramLanguages/Go/README.md)
     - [Todo](ProgramLanguages/Go/todo.md)
     - [书单](ProgramLanguages/Go/books.md)
